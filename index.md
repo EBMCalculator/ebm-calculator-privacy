@@ -14,11 +14,11 @@ This policy explains what data the app collects, how it is used, and your rights
 
 ## 2. Data Collection & Usage  
 
-- **No Personal Data Collected:** EBM Calculator does not collect, store, or transmit any personally identifiable information.  
+**No Personal Data Collected:** EBM Calculator does not collect, store, or transmit any personally identifiable information.  
 
-- **Local Data Storage:** Saved results are stored locally on your device and are not shared with third parties.  
+**Local Data Storage:** Saved results are stored locally on your device and are not shared with third parties.  
 
-- **No Internet Connectivity Required:** The app functions entirely offline and does not transmit data to external servers.  
+**No Internet Connectivity Required:** The app functions entirely offline and does not transmit data to external servers.  
 
 ---
 

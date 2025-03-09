@@ -6,7 +6,7 @@
 ---
 
 ## 1. Introduction  
-Thank you for using **EBM Calculator**. Your privacy is important to us.  
+Thank you for using **EBM Calculator**. Your privacy is important to me.  
 
 This policy explains what data the app collects, how it is used, and your rights regarding that data.
 
@@ -44,6 +44,4 @@ Any changes will be reflected on this page.
 
 ## 6. Contact  
 
-If you have any questions about this privacy policy, please contact:  
-
-EBMCalculator@icloud.com
+If you have any questions about this privacy policy, please contact: EBMCalculator@icloud.com

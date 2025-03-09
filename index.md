@@ -1,8 +1,12 @@
+<img src="EBM Calculator Logo Any 3x.png" alt="EBM Calculator Logo" width="200">
+
 # Privacy Policy for EBM Calculator  
-**Effective Date:** November 4, 2024
+**Effective Date:** November 4, 2024 
+
+---
 
 ## 1. Introduction  
-Thank you for using **EBM Calculator**. Your privacy is important to me.  
+Thank you for using **EBM Calculator**. Your privacy is important to us.  
 
 This policy explains what data the app collects, how it is used, and your rights regarding that data.
 
